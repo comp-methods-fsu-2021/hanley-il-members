@@ -12,4 +12,4 @@ I'm posting membership lists extracted from periodicals.
 
 ### 2020-02-03
 - updated raw file of bslc "membres" feature, 86291 lines. removed headlines, cleaned up line breaks
-- posted slc-members.tsv, which is a preliminary parsed file of this information, still containing many problems.
+- posted slc-members.tsv, 75335 lines, which is a preliminary parsed file of this information, still containing many problems.
